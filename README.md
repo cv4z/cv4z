@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hello World!? 😅 </h3>
 
-<!--
-**cv4z/cv4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Me chamo Claudio Vaz, sou designer grafico e estou aprendendo os fundamentos da magia de programação(<b>Javascript basicamente</b>).
+</p>
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center"><b>🚀 APRENDENDO:</b></h5>
+<div align="center">
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+              
+</div>
+
+
+
